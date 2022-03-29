@@ -227,11 +227,11 @@ span{
 .images{
     width: 270px;
     transition: 800ms;
-   opacity: 0.3;
+    filter: grayscale(100%);
     margin-top: 120px;
 }
 .images:hover{
-    opacity: 1;
+    filter: none;
     transform:translate(0px,15px);
     
 }
