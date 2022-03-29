@@ -7,6 +7,9 @@
 
     
 }
+.display{
+    display: none;
+}
 .bi:hover{
     transform: scale(1.2);
 }
