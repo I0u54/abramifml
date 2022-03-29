@@ -354,6 +354,9 @@ label { color: white;
     
 }
 @media (max-width:750px) {
+    .images:hover{
+        transform: scale(1.1);
+    }
     nav ul{
         flex-direction:column ;
         justify-content: center;
