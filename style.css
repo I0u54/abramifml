@@ -222,7 +222,7 @@ span{
 
 .images{
     width: 300px;
-    transition: 800ms;
+    
     margin-top: 120px;
 }
 .images:hover{
